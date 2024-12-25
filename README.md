@@ -1,11 +1,3 @@
-It seems like the markdown formatting wasn't applied properly when you copied the content, which resulted in the bash code blocks not being formatted as intended. Here's a step-by-step guide to fix that:
-
-1. **Ensure Proper Markdown Formatting:**
-   When you copy and paste the README contents, make sure the code blocks are properly enclosed in triple backticks (` ``` `). I see that the code blocks weren't correctly formatted in your message. Here's how to fix it:
-
-2. **Corrected README (with proper markdown formatting):**
-
-```markdown
 # My Arch Config Dot Files
 
 Welcome to my Arch Linux configuration repository! This repository contains all the dotfiles and configuration settings I use for a personalized Arch setup. It includes configurations for terminal applications like **Zsh**, **Kitty**, and **Catnap**, as well as general system settings and tools.
@@ -166,4 +158,4 @@ git commit -m "Add interactive README with setup instructions"
 git push origin main
 ```
 
-This version should now appear correctly formatted. Try copying and pasting it again into your `README.md` file, and let me know if it works!
+
