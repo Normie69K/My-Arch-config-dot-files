@@ -100,7 +100,7 @@ enable = true
 
 
 # For cute
-path   = "/home/karan/Pictures/mikasa/cute.jpg" # Please only use absolute paths.
+path   = "/Pictures/mikasa/cute.jpg" # Please only use absolute paths.
 scale  = 30
 margin = [1, 4, 1, 3]  # Adjust margins as necessary for centering
 
