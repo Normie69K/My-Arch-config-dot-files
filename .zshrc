@@ -137,3 +137,4 @@ export CHROME_EXECUTABLE="/usr/bin/firefox"
 export PATH="/opt/flutter/bin:$PATH"
 export PATH="/opt/flutter/bin/cache/dart-sdk/bin:$PATH"
 export TERMINAL=/usr/bin/kitty
+# Updated Zshrc
