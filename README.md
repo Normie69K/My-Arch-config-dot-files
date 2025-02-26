@@ -116,6 +116,18 @@ This repository is designed to be easily customizable. Here are some tips for ma
 
 ---
 
+## 📸 Screenshots
+
+![Terminal Screenshot](screenshots/Screenshot1.png)
+
+![Catnap Screenshot](screenshots/Screenshot2.png)
+
+![Custom Theme](screenshots/Screenshot3.png)
+
+![Feature Screenshot](screenshots/Screenshot4.png)
+
+---
+
 ## 🔧 Additional Configuration Files
 
 This repository also includes configurations for some of your favorite tools and applications:

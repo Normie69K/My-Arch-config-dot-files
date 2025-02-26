@@ -1,4 +1,4 @@
-g# Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.zshrc.
+# Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.zshrc.
 # Initialization code that may require console input (password prompts, [y/n]
 # confirmations, etc.) must go above this block; everything else may go below.
 if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]; then
@@ -134,7 +134,5 @@ zstyle ':omz:update' frequency 7
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 export CHROME_EXECUTABLE="/usr/bin/firefox"
-export PATH="/opt/flutter/bin:$PATH"
-export PATH="/opt/flutter/bin/cache/dart-sdk/bin:$PATH"
 export TERMINAL=/usr/bin/kitty
 # Updated Zshrc
